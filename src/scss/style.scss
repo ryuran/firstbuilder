@@ -1,4 +1,16 @@
-/* starting */
+/// Pics
+ //
+ // Une image avec sa légende
+ //
+ // Markup:
+ // <figure class="pics">
+ //   <img class="pics-img" alt="" src="http://lorempixel.com/400/200/"/>
+ //   <figcation class="pics-legend">
+ //     Legende
+ //   </figcaption>
+ // </figure>
+ //
+ // Style guide: Button
 .pics {
   display: flex;
 
