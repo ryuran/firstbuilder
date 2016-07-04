@@ -1,6 +1,6 @@
 {
-  "name": "firstbuilder",
-  "version": "1.0.0",
+  "name": "poe_firstbuilder",
+  "version": "0.0.0",
   "description": "Exercice de formation",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Lpera77/firstbuilder/issues"
   },
-  "homepage": "https://github.com/Lpera77/firstbuilder#readme"
+  "homepage": "https://github.com/Lpera77/firstbuilder#readme",
+  "dependencies": {
+    "node-sass": "^3.8.0"
+  }
 }
