@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Lpera77/firstbuilder/issues"
   },
-  "homepage": "https://github.com/Lpera77/firstbuilder#readme"
+  "homepage": "https://github.com/Lpera77/firstbuilder#readme",
+  "devDependencies": {
+    "node-sass": "^3.8.0"
+  }
 }
