@@ -16,13 +16,15 @@ $color-black: #000;
 
 .pics {
   display: flex;
-
+  
   &-img {
-    height: auto;
+    display: block;
     width: 100%;
+    height: auto;
   }
-
+  
   &-legend {
-    color: $color-black;
+    display: block;
+    color: black;
   }
 }
