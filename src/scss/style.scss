@@ -1,25 +1,28 @@
 /// Pics
- //
- // Une image avec sa légende
- //
- // Markup:
- // <figure class="pics">
- //   <img class="pics-img" alt="" src="http://lorempixel.com/400/200/"/>
- //   <figcation class="pics-legend">
- //     Legende
- //   </figcaption>
- // </figure>
- //
- // Style guide: Button
+//
+// Une image avec sa légende
+//
+// Markup:
+// <figure class="pics">
+//   <img class="pics-img" alt="" src="http://lorempixel.com/400/200/"/>
+//   <figcation class="pics-legend">
+//     Legende
+//   </figcaption>
+// </figure>
+//
+// Style guide: Button
+
+$color-black: #000;
+
 .pics {
   display: flex;
 
   &-img {
-    width: 100%;
     height: auto;
+    width: 100%;
   }
 
   &-legend {
-    color: black;
+    color: $color-black;
   }
 }
