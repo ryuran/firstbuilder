@@ -24,8 +24,11 @@
   },
   "devDependencies": {
     "kss": "^3.0.0-beta.14"
+<<<<<<< 1c57ded3e29a01fb565810f87d3dce80058eef14
 =======
     "node-sass": "^3.8.0"
 >>>>>>> afterwards a reset...
+=======
+>>>>>>> kss
   }
 }
