@@ -1,6 +1,7 @@
 {
-  "name": "poe_firstbuilder",
-  "version": "0.0.0",
+  "name": "projet1",
+  "version": "0.1.0",
+
   "description": "Exercice de formation",
   "main": "index.js",
   "scripts": {
