@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Krakysis/firstbuilder/issues"
   },
-  "homepage": "https://github.com/Krakysis/firstbuilder#readme"
+  "homepage": "https://github.com/Krakysis/firstbuilder#readme",
+  "dependencies": {
+    "node-sass": "^3.8.0"
+  }
 }
