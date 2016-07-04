@@ -21,6 +21,7 @@
     "autoprefixer": "^6.3.7",
     "node-sass": "^3.8.0",
     "postcss-cli": "^2.5.2"
+<<<<<<< 44d6b61ad2eb94d91e101b6541417a9508f284d2
   },
   "devDependencies": {
     "kss": "^3.0.0-beta.14"
@@ -30,5 +31,7 @@
 >>>>>>> afterwards a reset...
 =======
 >>>>>>> kss
+=======
+>>>>>>> add .gitignore and src/scss/style.scss
   }
 }
