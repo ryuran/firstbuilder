@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Atakablo/firstbuilder/issues"
   },
-  "homepage": "https://github.com/Atakablo/firstbuilder#readme"
+  "homepage": "https://github.com/Atakablo/firstbuilder#readme",
+  "dependencies": {
+    "node-sass": "^3.8.0"
+  }
 }
