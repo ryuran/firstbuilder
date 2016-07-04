@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/ducreuxr/firstbuilder/issues"
   },
-  "homepage": "https://github.com/ducreuxr/firstbuilder#readme"
+  "homepage": "https://github.com/ducreuxr/firstbuilder#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "node-sass": "^3.8.0"
+  }
 }
