@@ -1,0 +1,19 @@
+{
+  "name": "firstbuilder",
+  "version": "1.0.0",
+  "description": "Exercice de formation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tforesti/firstbuilder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tforesti/firstbuilder/issues"
+  },
+  "homepage": "https://github.com/tforesti/firstbuilder#readme"
+}
